@@ -1,0 +1,46 @@
+.flexbox{
+    display : Flex;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.item{
+    display: block;
+    box-sizing: border-box;
+    width: 10%;
+    
+}
+.content{
+    background-color :ghostwhite;
+    border: 2px solid  white;
+    padding: 10px ;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.flexbox1{
+    display : Flex;
+    box-sizing: border-box;
+    justify-content: center;
+    
+}
+
+.item1{
+    display: block;
+    box-sizing: border-box;
+    width: 5%;
+    
+}
+.content1{
+    background-color :red;
+    border: 2px solid  white;
+    padding: 10px ;
+}
+.B {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}

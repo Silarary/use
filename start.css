@@ -1,0 +1,62 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.B {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.flexbox{
+    display : Flex;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.item{
+    display: block;
+    box-sizing: border-box;
+    width: 10%;
+    
+}
+.content{
+    background-color :red;
+    border: 2px solid  white;
+    padding: 10px ;
+}
+.flexbox1{
+    display : Flex;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.item1{
+    display: block;
+    box-sizing: border-box;
+    width: 10%;
+    
+}
+.content1{
+    background-color :greenyellow;
+    border: 2px solid  white;
+    padding: 10px ;
+}
+.flexbox2{
+    display : Flex;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.item2{
+    display: block;
+    box-sizing: border-box;
+    width: 10%;
+    
+}
+.content2{
+    background-color :rgb(11, 195, 241);
+    border: 2px solid  white;
+    padding: 10px ;
+}

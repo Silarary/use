@@ -1,0 +1,28 @@
+.flexbox{
+    display : Flex;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.item{
+    display: block;
+    box-sizing: border-box;
+    width: 25%;
+    
+}
+.content{
+    background-color :ghostwhite;
+    border: 2px solid  white;
+    padding: 10px ;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.N {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
