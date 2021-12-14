@@ -1,0 +1,97 @@
+.B {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.flexbox1{
+    display : Flex;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.item1{
+    display: block;
+    box-sizing: border-box;
+    width: 5%;
+    
+}
+.content1{
+    background-color :red;
+    border: 2px solid  white;
+    padding: 5px ;
+}
+.flexbox2{
+    display : Flex;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.item2{
+    display: block;
+    box-sizing: border-box;
+    width: 3%;
+    
+}
+.content2{
+    background-color :red;
+    border: 2px solid  white;
+    padding: 5px ;
+}
+.flexbox3{
+    display : Flex;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.item3{
+    display: block;
+    box-sizing: border-box;
+    width: 3%;
+    
+}
+.content3{
+    background-color :red;
+    border: 2px solid  white;
+    padding: 5px ;
+}
+.flexbox4{
+    display : Flex;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.item4{
+    display: block;
+    box-sizing: border-box;
+    width: 3%;
+    
+}
+.content4{
+    background-color :red;
+    border: 2px solid  white;
+    padding: 5px ;
+}
+.flexbox5{
+    display : Flex;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.item5{
+    display: block;
+    box-sizing: border-box;
+    width: 5%;
+    
+}
+.content5{
+    background-color :darkgoldenrod;
+    border: 2px solid  white;
+    padding: 5px ;
+}
+
